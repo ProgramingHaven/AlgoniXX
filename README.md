@@ -20,10 +20,6 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 
 #### Github Stats
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoniXX&layout=compact" width="333" />
-</a>
-
 ![AlgoniXX's github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
