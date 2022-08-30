@@ -20,7 +20,7 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 
 #### Github Stats
 
-![AlgoniXX's github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
+![AlgoniXX github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
