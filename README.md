@@ -18,6 +18,21 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 - 😄 Pronouns: Algonix & Algorithm.
 - ⚡ Main Subject: Growtopia Server/Framework/Potential Proxies/
 
+## Languages, IDEs and Tools
+
+### Languages
+
+<img style="padding: 1.5px" align="left" alt="C++" width="25px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
+<img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
+<img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
+<img style="padding: 1.5px" alt="left" alt="Python 3" width="26px" src="https://github.com/Groophy-Lifefor/Groophy-Lifefor/blob/main/batch.jpg"/>
+
+
+### IDEs
+
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+<img alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
+
 #### Github Stats
 
 ![AlgoniXX github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
