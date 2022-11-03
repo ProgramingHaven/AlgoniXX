@@ -17,6 +17,7 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 - 📫 How to reach me: algonixx999@gmail.com or AlgoniX#8653 on discord.
 - 😄 Pronouns: Algonix & Algorithm.
 - ⚡ Main Subject: Growtopia Server/Framework/Potential Proxies/
+- Community Discord: https://discord.gg/WMaeqSMAZE
 
 ## Languages, IDEs and Tools
 
