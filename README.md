@@ -12,12 +12,10 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on project Mecha
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🔭 I’m currently working on tons of projects, check my public repositories
 - 📫 How to reach me: algonixx999@gmail.com or AlgoniX#8653 on discord.
-- 😄 Pronouns: Algonix & Algorithm.
 - ⚡ Main Subject: Growtopia Server/Framework/Potential Proxies/
-- Community Discord: https://discord.gg/WMaeqSMAZE
+- 😄Community Discord: https://discord.gg/WMaeqSMAZE
 
 ## Languages, IDEs and Tools
 
@@ -37,5 +35,3 @@ I'm Algonix AKA Petro, im a developer currently working on MechaInc which is til
 #### Github Stats
 
 ![AlgoniXX github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
