@@ -30,8 +30,3 @@ I'm Algonix, im here to help with what ever i can.
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
-
-
-#### Github Stats
-
-![AlgoniXX github stats](https://github-readme-stats.vercel.app/api?username=AlgoniXX&count_private=true&theme=tokyonight&hide=contribs,prs)
