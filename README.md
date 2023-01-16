@@ -30,3 +30,5 @@ I'm Algonix, im here to help with what ever i can.
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img alt="Visual Studio 2019 and 2022" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
+
+https://github-readme-stats.vercel.app/api?username=algonixx&show_icons=true&theme=transparent)
